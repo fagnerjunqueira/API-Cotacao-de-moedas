@@ -4,9 +4,10 @@ div#moedas {
 }
 
 div#moeda {
+    text-align: center;
     display: inline-block;
-    color: aliceblue;
-    background-color: darkblue;
+    color: black;
+    background-color: rgb(255, 204, 137);
     border-radius: 6px;
     height: 220px;
     width: 300px;
@@ -16,5 +17,4 @@ div#moeda {
 
 #titulo {
     text-align: center;
-    padding-top: 0.5%;
 }
