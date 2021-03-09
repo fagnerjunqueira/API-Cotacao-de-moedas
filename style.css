@@ -1,0 +1,20 @@
+div#moedas {
+    height: 100%;
+    padding-left: 5%;
+}
+
+div#moeda {
+    display: inline-block;
+    color: aliceblue;
+    background-color: darkblue;
+    border-radius: 6px;
+    height: 220px;
+    width: 300px;
+    padding: 2%;
+    margin: 3%;
+}
+
+#titulo {
+    text-align: center;
+    padding-top: 0.5%;
+}
